@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1628357671 source:/media/ali/Ali/Programming/Others/Snake/Snake.cpp
+	"Snake.h"
+
+1628352022 /media/ali/Ali/Programming/Others/Snake/Snake.h
+	<thread>
+	<random>
+	<iostream>
+	"kbhit.h"
+
+1628345947 source:/media/ali/Ali/Programming/Others/Snake/main.cpp
+	<iostream>
+	"Snake.h"
+
+1628347939 source:/media/ali/Ali/Programming/Others/Snake/kbhit.cpp
+	<unistd.h>
+	"kbhit.h"
+
+1628347802 /media/ali/Ali/Programming/Others/Snake/kbhit.h
+	<termios.h>
+
